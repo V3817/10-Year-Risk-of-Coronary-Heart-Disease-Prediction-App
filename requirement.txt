@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+scikit-learn==1.5.1
+tensorboard
+matplotlib
+streamlit
+scikeras
+pickle
+
